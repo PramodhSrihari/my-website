@@ -1,7 +1,7 @@
 # Website Project - Gemini Notes
 
 ## Project Overview
-Personal website hosted on GitHub Pages.
+Personal website- [x] Verify GitHub Pages deployment
 
 ## Interview Answers
 *(To be filled during procedural interview)*
@@ -23,8 +23,7 @@ Personal website hosted on GitHub Pages.
 ### Content
 - **Tagline/Headline**: "Indomitable... witness me."
 - **Tone**: Formal and academic mixed with witty
-- **Bio/About**: 
-- **Social Links**: 
-
+- **Bio/About**: M2 Medical student at Touro University Nevada with an interest in psychiatry. Driven by the intersection of neuroscience and the human experience.
+- **Social Links**: [LinkedIn](#), [Instagram](#), [GitHub](https://github.com/PramodhSrihari) (Note: LinkedIn and Instagram are placeholders in code).
 ---
 *Last Updated: 2026-01-19*
