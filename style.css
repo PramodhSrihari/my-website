@@ -572,7 +572,10 @@ strong {
 }
 
 .interest-icon {
-    font-size: 1.5rem;
+    color: var(--color-accent);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .interest-text {
